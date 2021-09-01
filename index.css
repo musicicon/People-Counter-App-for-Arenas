@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/background.jpg);
+    text-align: center;
+    font-family: Impact Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+}
+
+h1{
+    margin: 10px 0px;
+}
+h2{
+    margin: 0px 10px 0px 0px;
+    font-size: 50px;
+}
+
+button{
+    width: 147px;
+    height: 43px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 100px;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+
+
+}
+#increment-btn{
+    color: wheat;
+    background-color: brown;
+}
+
+#save-btn{
+    color: white;
+    background-color: green;
+}
+
+#entries{
+    color:black;
+}
